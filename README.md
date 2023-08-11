@@ -4,27 +4,49 @@ Introducing "Boot Brain," an innovative game-based E-learning website that offer
 
 
 Approach
+
 -Importing Libraries
+
 -Data Importing
+
 -Data Exploration
+
 -Preparing the Data
+
 -Creating a Generator for Training Set
+
 -Creating a Generator for Testing Set
+
 -Writing the labels into a labels.npy
+
 -Model Creation
+
 -Model Compilation
+
 -Training the Model ( epochs = 100)
+
 -Testing Predictions
+
 -Saving model as 'model.h5'
+
 -Deploying the Model as a Web Application using Django ,and desktop applicationTkinter
 
 Technologies
+
 -oneAPI/one
+
 -Devcloud
+
 -Python
+
 -Django
+
 -Tkinter
+
 -cvzone
+
 -Tensorflow
+
 -openvino
+
 -DNN
